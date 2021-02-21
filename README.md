@@ -1,16 +1,17 @@
-### Hi there 👋
+# Curated Lists
 
-<!--
-**Lucas-Kohorst/Lucas-Kohorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A collection of twitter and awesome lists
 
-Here are some ideas to get you started:
+## Awesome Lists
+[Awesome DeFi](https://github.com/Lucas-Kohorst/awesome-defi)
+[Awesome NFT](https://github.com/Lucas-Kohorst/awesome-nft)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Twitter Lists
+
+### [Blockchain Projects](https://twitter.com/i/lists/1317835021076529153?s=20)
+
+A list of popular, hackathon, and startup blockchain projects
+
+### [Crypto Personal](https://twitter.com/i/lists/1310246472512921609?s=20)
+
+A list of people I find helpful in crypto/blockchain
