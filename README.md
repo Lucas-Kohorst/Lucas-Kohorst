@@ -3,7 +3,7 @@
 ## A collection of twitter and awesome lists
 
 ## Awesome Lists
-[Awesome DeFi](https://github.com/Lucas-Kohorst/awesome-defi)
+[Awesome DeFi](https://github.com/Lucas-Kohorst/awesome-defi)   
 [Awesome NFT](https://github.com/Lucas-Kohorst/awesome-nft)
 
 ## Twitter Lists
