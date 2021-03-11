@@ -17,5 +17,5 @@ A list of popular, hackathon, and startup blockchain projects
 A list of people I find helpful in crypto/blockchain
 
 ## Alpha
-[Ape List](https://github.com/Lucas-Kohorst/ape-lists)
+[Ape List](https://github.com/Lucas-Kohorst/ape-lists)     
 [Daily Trending Solidity Repos](https://github.com/vitalets/github-trending-repos/issues/151)
