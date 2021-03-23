@@ -18,7 +18,7 @@ A list of people I find helpful in crypto/blockchain
 
 ## Governance
 
-Governance Forum RSS Feeds
+Governance Forum RSS Feeds   
 [The Maker Forum - Latest topics](https://forum.makerdao.com/latest.rss)   
 [Radicle Community - Latest topics](https://radicle.community/latest.rss)   
 [Compound Community Forum - Latest topics](https://www.comp.xyz/latest.rss)   
