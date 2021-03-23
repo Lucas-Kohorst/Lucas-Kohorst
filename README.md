@@ -19,11 +19,11 @@ A list of people I find helpful in crypto/blockchain
 ## Governance
 
 Governance Forum RSS Feeds
-[The Maker Forum - Latest topics](https://forum.makerdao.com/latest.rss)
-[Radicle Community - Latest topics](https://radicle.community/latest.rss)
-[Compound Community Forum - Latest topics](https://www.comp.xyz/latest.rss)
-[Uniswap Governance - Latest topics](https://gov.uniswap.org/latest.rss)
-[Gnosis - Latest topics](https://forum.gnosis.io/latest.rss)
+[The Maker Forum - Latest topics](https://forum.makerdao.com/latest.rss)   
+[Radicle Community - Latest topics](https://radicle.community/latest.rss)   
+[Compound Community Forum - Latest topics](https://www.comp.xyz/latest.rss)   
+[Uniswap Governance - Latest topics](https://gov.uniswap.org/latest.rss)   
+[Gnosis - Latest topics](https://forum.gnosis.io/latest.rss)   
 
 ## Alpha
 [Ape List](https://github.com/Lucas-Kohorst/ape-lists)     
