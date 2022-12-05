@@ -1,5 +1,3 @@
-## Awesome Lists
-[Awesome DeFi](https://github.com/Lucas-Kohorst/awesome-defi)   
-[Awesome NFT](https://github.com/Lucas-Kohorst/awesome-nft)   
-[Ethereum Layer 2](https://github.com/Lucas-Kohorst/awesome-layer-2)   
-[Awesome Solana](https://github.com/Lucas-Kohorst/awesome-solana)
+I occasionally write, open source as much code as I can, and can be reached on twitter or via telegram. You can also find what I am reading at /reading
+
+Find me @ [kohorst.fyi](https://kohorst.fyi)
